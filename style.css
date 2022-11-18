@@ -7,5 +7,14 @@ body{
   background-color:#F2EFFB
 }
 
-
+nav li{
+  display: inline-block;
+  text-decoration: none;
+  text-transform: uppercase;
+  border: 3px solid purple;
+  background-color: pink
+}
+header {
+  background: #663366
+  font: 8px
 }

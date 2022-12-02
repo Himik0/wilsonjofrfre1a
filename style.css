@@ -11,8 +11,12 @@ nav li{
   display: inline-block;
   text-decoration: none;
   text-transform: uppercase;
-  border: 5px solid purple;
-  background-color: pink
+  background-color: #DDA0DD
+}
+nav a:hover{
+  color: #7B68EE;
+  font-size: 35px;
+  left: 40%;
 }
 header {
   background: #663366
@@ -38,5 +42,3 @@ h3{
 header{
   background-color: #8F8FBD;
   text-align: center;
-
-}
